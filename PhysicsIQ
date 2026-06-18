@@ -727,7 +727,7 @@ export default function App() {
           {view === "years" && (
             <div className="sel-screen">
               <div className="sel-header">
-                <div className="sel-title">JEE Main PYQ</div>
+                <div className="sel-title">RankPilot</div>
                 <div className="sel-sub">Physics · Select a year to begin</div>
                 <div style={{display:"flex",alignItems:"center",gap:6,marginTop:4}}>
                   <div style={{width:7,height:7,borderRadius:"50%",background:dbReady?"var(--g)":"var(--y)",animation:dbReady?"none":"aip 1.5s infinite"}}/>
