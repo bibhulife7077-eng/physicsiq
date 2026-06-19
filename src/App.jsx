@@ -702,7 +702,7 @@ export default function App() {
 
           {/* TOP NAV */}
           <nav className="topnav">
-            <div className="nav-logo" onClick={goToYears}>Physics<span>IQ</span></div>
+            <div className="nav-logo" onClick={goToYears}>RankPilot</div>
             <div className="nav-tabs">
               {view === "results" && <button className="nav-tab active">Results</button>}
               {view === "test" && submitted && <button className="nav-tab" onClick={() => setView("results")}>Results</button>}
