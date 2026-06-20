@@ -113,5 +113,5 @@ const loadProgressFromFirestore = async (key) => {
 
 
 export { TOTAL_TIME, fmt, loadProgress, saveProgress, progressKey, rand, getStatus,
-  START_QUOTES, getEndQuote, getStreakMessage,
+  START_QUOTES, getEndQuote,
   seedFirestore, loadQuestionsFromFirestore, saveProgressToFirestore, loadProgressFromFirestore }
