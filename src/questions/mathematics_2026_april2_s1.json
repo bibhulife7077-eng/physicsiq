@@ -1,0 +1,60 @@
+{
+  "subject": "Mathematics",
+  "year": "2026",
+  "month": "April 2nd",
+  "shift": "S1",
+  "label": "Shift 1",
+  "date": "2nd Apr",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Algebra",
+      "question": "[Placeholder] The roots of x² − 5x + 6 = 0 are:",
+      "options": [
+        "1, 6",
+        "2, 3",
+        "−2, −3",
+        "2, −3"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "topic": "Calculus",
+      "question": "[Placeholder] The derivative of sin(x) with respect to x is:",
+      "options": [
+        "−cos(x)",
+        "cos(x)",
+        "−sin(x)",
+        "tan(x)"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "topic": "Coordinate Geometry",
+      "question": "[Placeholder] The distance between points (0,0) and (3,4) is:",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "correct": 0,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 4,
+      "type": "numerical",
+      "topic": "Algebra",
+      "question": "[Placeholder] The value of log₂(8) is ___.",
+      "correct": "3",
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    }
+  ]
+}

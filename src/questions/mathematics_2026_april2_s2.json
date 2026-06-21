@@ -1,0 +1,60 @@
+{
+  "subject": "Mathematics",
+  "year": "2026",
+  "month": "April 2nd",
+  "shift": "S2",
+  "label": "Shift 2",
+  "date": "2nd Apr",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Trigonometry",
+      "question": "[Placeholder] The value of sin(90°) is:",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "topic": "Calculus",
+      "question": "[Placeholder] The integral of 1/x dx is:",
+      "options": [
+        "x²/2",
+        "ln|x| + C",
+        "1/x² + C",
+        "eˣ + C"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "topic": "Probability",
+      "question": "[Placeholder] The probability of getting heads on a fair coin toss is:",
+      "options": [
+        "1",
+        "0.5",
+        "0.25",
+        "0"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 4,
+      "type": "numerical",
+      "topic": "Algebra",
+      "question": "[Placeholder] The sum of the first 5 natural numbers is ___.",
+      "correct": "15",
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    }
+  ]
+}

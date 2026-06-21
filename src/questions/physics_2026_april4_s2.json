@@ -1,0 +1,330 @@
+{
+  "subject": "Physics",
+  "year": "2026",
+  "month": "April 4th",
+  "shift": "S2",
+  "label": "Shift 2",
+  "date": "4th Apr",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Units and Measurements",
+      "question": "Match the LIST-I with LIST-II\n\n| List-I | List-II |\n| :--- | :--- |\n| A. Planck's constant | I. $ML^2T^2$ |\n| B. Stopping potential | II. $T^{+1}$ |\n| C. Work function | III. $ML^2T^{-1}$ |\n| D. Threshold frequency | IV. $ML^2T^{-3}A^{-1}$ |\n\nChoose the correct answer from the options given below:",
+      "options": [
+        "A-III, B-IV, C-I, D-II",
+        "A-I, B-II, C-III, D-IV",
+        "A-IV, B-III, C-I, D-II",
+        "A-I, B-IV, C-III, D-II"
+      ],
+      "correct": 0,
+      "solution": "(i) $[h]=\\frac{[E]}{[\\nu]}=\\frac{ML^2T^{-2}}{T^{-1}}=ML^2T^{-1}$\n(ii) Stopping potential: $E=q\\cdot V_0 \\Rightarrow [V_0]=\\frac{[E]}{[q]}=\\frac{ML^2T^{-2}}{AT}=ML^2T^{-3}A^{-1}$\n(iii) Work function ($\\phi$) -> Energy form $\\Rightarrow [\\phi]=ML^2T^{-2}$ (Note: OCR shows $ML^2T^2$ but it is a typo in the paper options)\n(iv) Threshold freq. $[\\nu_0]=T^{-1}$"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "topic": "Kinematics",
+      "question": "Two cars A and B are moving in the same direction along a straight line with speeds $100~km/h$ and $80~km/h$, respectively such that car A is moving ahead of car B. A person in car B throws a stone with a speed $v$ so that it hits the car A with a speed of $5~m/s$. The value of $v$ is",
+      "options": [
+        "18 km/h",
+        "28 km/h",
+        "38 km/h",
+        "48 km/h"
+      ],
+      "correct": 2,
+      "solution": "$V_{SA} = 5~m/s = 18~km/hr$\n$\\vec{V}_S - \\vec{V}_A = \\vec{V}_{SA}$\n$V_S = V + 80$\n$V + 80 - 100 = 18~km/hr$\n$V - 20 = 18 \\Rightarrow V = 38~km/hr$"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "topic": "Laws of Motion",
+      "question": "At $t=0$, a body of mass 100 g starts moving under the influence of a force $(5\\hat{i}+10\\hat{j})N$. After 2s its position is $(2x\\hat{i}+5y\\hat{j})m$. The ratio x : y is",
+      "options": [
+        "1:2",
+        "2:5",
+        "5:2",
+        "5:4"
+      ],
+      "correct": 3,
+      "solution": "$\\vec{a} = \\frac{\\vec{F}}{m} = \\frac{5\\hat{i}+10\\hat{j}}{0.1} = (50\\hat{i}+100\\hat{j})$\n$\\vec{s} = \\vec{u}t + \\frac{1}{2}\\vec{a}t^2$\n$\\vec{s} = 0 + \\frac{1}{2}[50\\hat{i}+100\\hat{j}][2]^2$\n$\\vec{s} = 100\\hat{i}+200\\hat{j} = \\vec{r} = 2x\\hat{i}+5y\\hat{j}$\n$2x = 100 \\Rightarrow x = 50$\n$5y = 200 \\Rightarrow y = 40$\n(Note: OCR shows $y=100$ but $5y=200 \\Rightarrow y=40$. Then $x/y = 50/40 = 5/4$)\n$\\frac{x}{y} = \\frac{5}{4}$"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "topic": "Kinematics",
+      "question": "If x and y coordinates of a projectile as a function of time (t) are given as $24t$ and $43.6t-4.9t^2$ respectively, then the angle (in degrees) made by the projectile with horizontal when $t=2$ is",
+      "options": [
+        "60",
+        "45",
+        "30",
+        "75"
+      ],
+      "correct": 1,
+      "solution": "$x = 24t \\Rightarrow v_x = \\frac{dx}{dt} = 24$\n$y = 43.6t - 4.9t^2 \\Rightarrow v_y = \\frac{dy}{dt} = 43.6 - 9.8t$\n$\\tan \\theta = \\frac{v_y}{v_x} = \\frac{43.6 - 9.8t}{24}$\nAt $t=2$, $\\frac{43.6 - 19.6}{24} = \\frac{24}{24} = 1$\n$\\tan \\theta = 1 \\Rightarrow \\theta = 45^{\\circ}$"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "topic": "Gravitation",
+      "question": "The height in terms of radius of the earth (R), at which the acceleration due to gravity becomes $\\frac{g}{9}$ where g is acceleration due to gravity on earth's surface, is",
+      "options": [
+        "$\\sqrt{3}R$",
+        "$2\\sqrt{2}R$",
+        "$2R$",
+        "$\\frac{4}{9}R$"
+      ],
+      "correct": 2,
+      "solution": "$g_h = \\frac{g}{(1+\\frac{h}{R})^2}$\n$\\frac{g}{9} = \\frac{g}{(1+\\frac{h}{R})^2}$\n$1 + \\frac{h}{R} = 3 \\Rightarrow \\frac{h}{R} = 2 \\Rightarrow h = 2R$"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "topic": "Properties of Solids",
+      "question": "A metal string A is suspended from a rigid support and its free end is attached to a block of mass M. Second block having mass 2M is suspended at the bottom of the first block using a string B. The area of cross sections of strings A and B are same. The ratio of lengths of strings of A to B is 2 and the ratio of their Young's moduli $(Y_A/Y_B)$ is 0.5. The ratio of elongations in A to B is",
+      "options": [
+        "1",
+        "4",
+        "8",
+        "6"
+      ],
+      "correct": 3,
+      "solution": "$\\Delta l = \\frac{Tl}{YA}$\nFor string A: Tension $T_A = 3mg$, length $l_A = l$, Young's modulus $Y_A = Y$\n$\\Delta l_1 = \\frac{3mgl}{YA}$\nFor string B: Tension $T_B = 2mg$, length $l_B = l/2$, Young's modulus $Y_B = 2Y$\n$\\Delta l_2 = \\frac{2mg(l/2)}{2YA} = \\frac{mgl}{2YA}$\n$\\frac{\\Delta l_1}{\\Delta l_2} = \\frac{3mgl/YA}{mgl/2YA} = 6$"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "topic": "Fluid Mechanics",
+      "question": "A water spray gun is attached to a hose of cross sectional area $30~cm^2$. The gun comprises of 10 perforations each of cross sectional area of $15~mm^2$. If the water flows in the hose with the speed of $50~cm/s$, calculate the speed at which the water flows out from each perforation. (Neglect any edge effects)",
+      "options": [
+        "$100~m/s$",
+        "$10~m/s$",
+        "$1000~m/s$",
+        "$15 \\times 10^2~m/s$"
+      ],
+      "correct": 1,
+      "solution": "Using equation of continuity:\n$AV = 10av$\n$v = \\frac{AV}{10a} = \\frac{30 \\times 50}{10 \\times 0.15} = 1000~cm/s = 10~m/s$"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "topic": "Kinetic Theory of Gases",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: If the average kinetic energy of $H_2$ and $O_2$ molecules, kept in two different sized containers are same, then their temperatures will be same.\nReason R: The r.m.s. speed of $H_2$ and $O_2$ molecules are same at same temperature.\nChoose the correct answer from the options given below:",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true but R is NOT the correct explanation of A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "correct": 2,
+      "solution": "Avg. kinetic energy of a molecule is $\\frac{f}{2}kT$, so if kinetic energies are same, temperatures are same (Assertion A is true).\nBut $v_{rms} = \\sqrt{\\frac{3RT}{M}}$. Since molar mass M is different for $H_2$ and $O_2$, $v_{rms}$ is different (Reason R is false)."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "topic": "Thermal Properties of Matter",
+      "question": "The temperature of a metal strip having coefficient of linear expansion $\\alpha$ is increased from $T_1$ to $T_2$ resulting in increase of its length by $\\Delta L_1$. The temperature is further increased from $T_2$ to $T_3$ such that the increase in its length is $\\Delta L_2$. Given $T_3+T_1=2T_2$ and $T_2-T_1=\\Delta T$, the value of $\\Delta L_2$ is",
+      "options": [
+        "$\\Delta L_1[1+2\\alpha^2(\\Delta T)^2]$",
+        "$\\Delta L_1[1+\\alpha^2(\\Delta T)^2]$",
+        "$\\Delta L_1[1+2\\alpha\\Delta T]$",
+        "$\\Delta L_1[1+\\alpha\\Delta T]$"
+      ],
+      "correct": 3,
+      "solution": "$\\Delta L_1 = L_0\\alpha(T_2 - T_1) = L_0\\alpha\\Delta T$\nFinal length at $T_2 = L_0 + \\Delta L_1$\n$\\Delta L_2 = (L_0 + \\Delta L_1)\\alpha(T_3 - T_2)$ and $T_3 - T_2 = T_2 - T_1 = \\Delta T$\n$\\Delta L_2 = L_0\\alpha\\Delta T + \\Delta L_1\\alpha\\Delta T$\n$= \\Delta L_1 + \\Delta L_1\\alpha\\Delta T = \\Delta L_1(1 + \\alpha\\Delta T)$"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "topic": "Oscillations",
+      "question": "A uniform disc of radius R and mass M is free to oscillate about the axis A as shown in the figure (axis is at the edge of the disc). For small oscillations the time period is (g is acceleration due to gravity)",
+      "options": [
+        "$2\\pi\\sqrt{\\frac{5R}{4g}}$",
+        "$2\\pi\\sqrt{\\frac{2R}{3g}}$",
+        "$2\\pi\\sqrt{\\frac{3R}{2g}}$",
+        "$2\\pi\\sqrt{\\frac{3R}{g}}$"
+      ],
+      "correct": 0,
+      "solution": "Moment of inertia about axis A (using parallel axis theorem):\n$I_A = \\frac{MR^2}{2} + MR^2 = \\frac{3MR^2}{2}$ (Note: Wait, disc is free to oscillate in its plane? If it oscillates in its plane, $I_{cm} = MR^2/2$, so $I = 3MR^2/2$. If perpendicular, $I_A = MR^2/4 + MR^2 = 5MR^2/4$. OCR solution uses $5mR^2/4$, implying oscillation out of plane or axis is perpendicular to diameter).\nSolution as per paper:\n$I_{disc} = \\frac{mR^2}{4} + mR^2 = \\frac{5mR^2}{4}$\nFor small displacement $\\tau = -mgR\\theta$\n$\\alpha = -\\frac{mgR}{\\frac{5mR^2}{4}}\\theta = -\\frac{4g}{5R}\\theta$\n$\\omega = \\sqrt{\\frac{4g}{5R}}$\n$T = 2\\pi\\sqrt{\\frac{5R}{4g}}$"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "topic": "Electrostatics",
+      "question": "A rigid dipole undergoes a simple harmonic motion about its centre in the presence of an electric field $\\vec{E}_1=E_0\\hat{x}$. If another electric field $\\vec{E}_2=2E_0(\\hat{y}+\\hat{z})$ is introduced to the system, what will be the percentage change in the frequency of the oscillation (approximate)?",
+      "options": [
+        "73%",
+        "63%",
+        "83%",
+        "53%"
+      ],
+      "correct": 0,
+      "solution": "Initial frequency $f_i = \\frac{1}{2\\pi}\\sqrt{\\frac{pE_0}{I}}$\nFinal electric field $\\vec{E} = E_0\\hat{i} + 2E_0(\\hat{j}+\\hat{k})$\nMagnitude $E_{final} = \\sqrt{E_0^2 + (2E_0)^2 + (2E_0)^2} = \\sqrt{E_0^2 + 4E_0^2 + 4E_0^2} = 3E_0$\nFinal Frequency $f_f = \\frac{1}{2\\pi}\\sqrt{\\frac{p(3E_0)}{I}} = \\sqrt{3}f_i$\n$\\% \\text{ change} = \\frac{\\Delta f}{f_i} \\times 100 = (\\sqrt{3} - 1) \\times 100 \\approx 73\\%$"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "topic": "Capacitors",
+      "question": "From the circuit given below, the capacitance between terminals A and B shown in the circuit is $\\mu F$. (take $C_1=C_2=C_3=1\\mu F$ and $C_4=2\\mu F$.)",
+      "options": [
+        "2",
+        "7/2",
+        "7/3",
+        "5/2"
+      ],
+      "correct": 1,
+      "solution": "This is a Wheatstone bridge-like structure but solved via delta-star or parallel/series simplifications. Based on the standard configuration given in OCR and solution trace, the equivalent capacitance $C_{AB} = 7/2~\\mu F$."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "topic": "Electrostatics",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: In electrostatics, a conductor does not store any net charge inside.\nReason R: Inside the capacitor (with no dielectric medium), the free charge carriers, if placed between the plates of capacitor, experience force and drift.\nChoose the correct answer from the options given below.",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A.",
+        "Both A and R are true but R is NOT the correct explanation of A.",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "correct": 1,
+      "solution": "Both statements are theoretically true. A conductor in electrostatics cannot have net charge inside its volume (charges reside on the surface). Inside a capacitor, there is a uniform electric field, so any free charge placed there will experience a force ($F=qE$) and drift. However, Reason R is not the correct explanation for Assertion A."
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "topic": "Magnetism and Matter",
+      "question": "A solenoid has a core made of material with relative permeability 400. The magnetic field produced in the interior of solenoid is 1.0T. The magnetic intensity is SI units is $\\alpha \\times 10^5$. The value of $\\alpha$ is (Free space permeability $\\mu_0 = 4\\pi \\times 10^{-7}$ SI units).",
+      "options": [
+        "$\\frac{25}{\\pi}$",
+        "$\\frac{1}{16\\pi}$",
+        "$\\frac{1}{\\pi}$",
+        "$\\frac{1}{4\\pi}$"
+      ],
+      "correct": 1,
+      "solution": "$H = \\frac{B}{\\mu} = \\frac{B}{\\mu_0\\mu_r} = \\frac{1}{400 \\times 4\\pi \\times 10^{-7}}$\n$H = \\frac{1}{1600\\pi \\times 10^{-7}} = \\frac{1}{16\\pi} \\times 10^5$\nSo $\\alpha = \\frac{1}{16\\pi}$"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "topic": "Electromagnetic Waves",
+      "question": "A magnetic field vector in an electromagnetic wave is represented by, $\\vec{B}=B_0\\sin(2\\pi \\nu t-\\frac{2\\pi x}{\\lambda})\\hat{j}$. Its associated electric field vector is",
+      "options": [
+        "$\\vec{E}=-\\nu\\lambda B_0\\sin(2\\pi \\nu t-\\frac{2\\pi x}{\\lambda})\\hat{k}$",
+        "$\\vec{E}=-\\nu\\lambda B_0\\sin(2\\pi \\nu t-\\frac{2\\pi x}{\\lambda})\\hat{i}$",
+        "$\\vec{E}=\\nu\\lambda B_0\\sin(2\\pi \\nu t-\\frac{2\\pi x}{\\lambda})\\hat{k}$",
+        "$\\vec{E}=\\nu\\lambda B_0\\sin(2\\pi \\nu t-\\frac{2\\pi x}{\\lambda})\\hat{i}$"
+      ],
+      "correct": 0,
+      "solution": "Direction of propagation is $+x$ (from the term $t - x/c$), so $\\hat{c} = \\hat{i}$.\n$\\hat{E} \\times \\hat{B} = \\hat{c}$\n$\\hat{E} \\times \\hat{j} = \\hat{i} \\Rightarrow \\hat{E} = -\\hat{k}$\nAlso, $E_0 / B_0 = c = \\nu\\lambda \\Rightarrow E_0 = B_0\\nu\\lambda$.\nTherefore, $\\vec{E} = -\\nu\\lambda B_0\\sin(2\\pi \\nu t-\\frac{2\\pi x}{\\lambda})\\hat{k}$"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "topic": "Ray Optics",
+      "question": "A convex lens is made from glass material having refractive index of 1.4 with same radius of curvature on both sides. The ratio of its focal length and radius of curvature is",
+      "options": [
+        "0.5",
+        "2.5",
+        "0.8",
+        "1.25"
+      ],
+      "correct": 3,
+      "solution": "$\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$\n$\\frac{1}{f} = (1.4 - 1)(\\frac{1}{R} - \\frac{1}{-R}) = 0.4 \\times \\frac{2}{R} = \\frac{0.8}{R}$\n$\\frac{f}{R} = \\frac{1}{0.8} = 1.25$"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "topic": "Wave Optics",
+      "question": "An unpolarized light of certain intensity passes through a combination of two polarizers whose transmission axes are at $30^{\\circ}$ and $90^{\\circ}$ respectively, with respect to the horizontal axis. A third polarizer with its transmission axis at $60^{\\circ}$ with the horizontal axis is placed between the two existing polarizers. The ratio of the output intensities with and without the third polarizer is",
+      "options": [
+        "3/4",
+        "4/3",
+        "9/4",
+        "4/9"
+      ],
+      "correct": 2,
+      "solution": "Initial intensity $I_0$.\nIntensity after 1st polarizer ($30^{\\circ}$) is $I_1 = \\frac{I_0}{2}$.\nWithout 3rd polarizer:\nAngle between 1st ($30^{\\circ}$) and 2nd ($90^{\\circ}$) is $60^{\\circ}$.\n$I_{without} = \\frac{I_0}{2}\\cos^2(60^{\\circ}) = \\frac{I_0}{2} \\times \\frac{1}{4} = \\frac{I_0}{8}$.\nWith 3rd polarizer ($60^{\\circ}$):\nAngle between 1st and 3rd is $30^{\\circ}$, angle between 3rd and 2nd is $30^{\\circ}$.\n$I_{with} = \\frac{I_0}{2}\\cos^2(30^{\\circ})\\cos^2(30^{\\circ}) = \\frac{I_0}{2} \\times \\frac{3}{4} \\times \\frac{3}{4} = \\frac{9I_0}{32}$.\nRatio = $\\frac{9I_0 / 32}{I_0 / 8} = \\frac{9}{32} \\times 8 = \\frac{9}{4}$."
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "topic": "Atoms",
+      "question": "In Rutherford's alpha-particle scattering experiment, only a few alpha particles rebound back because\n(A) The size of gold nucleus is very small as compared to the size of gold atom.\n(B) Alpha particle and gold nucleus have equal charge.\n(C) The impact parameter is minimum for a few alpha particles.\n(D) A few alpha particles have very high kinetic energy.\n(E) Only a few alpha particles undergo head-on collision with the nuclei.\nChoose the correct answer from the options given below:",
+      "options": [
+        "A, B Only",
+        "B, E Only",
+        "C, D Only",
+        "A, C, E Only"
+      ],
+      "correct": 3,
+      "solution": "Alpha particles rebounding back ($180^{\\circ}$) implies a head-on collision (impact parameter $b \\approx 0$). Since the nucleus is very small, very few alpha particles have such a small impact parameter and undergo head-on collision. Statements A, C, and E are correct."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "The de Broglie wavelength associated with an electron accelerated through a potential difference V is $\\lambda_e$ and the de Broglie wavelength associated with a proton accelerated through the same potential difference is $\\lambda_p$. If their corresponding masses are $m_e$ and $m_p$ respectively, then the ratio of their de Broglie wavelengths ($\\frac{\\lambda_e}{\\lambda_p}$) is",
+      "options": [
+        "$\\sqrt{\\frac{m_p}{m_e}}$",
+        "$\\sqrt{\\frac{m_e}{m_p}}$",
+        "$\\frac{m_p}{m_e}$",
+        "$(\\frac{m_p}{m_e})^2$"
+      ],
+      "correct": 0,
+      "solution": "$\\lambda = \\frac{h}{\\sqrt{2mqV}}$\nSince they are accelerated through the same potential $V$ and have same charge magnitude $q$, $\\lambda \\propto \\frac{1}{\\sqrt{m}}$.\n$\\frac{\\lambda_e}{\\lambda_p} = \\sqrt{\\frac{m_p}{m_e}}$"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "topic": "Semiconductor Electronics",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: A diode under reverse-biased condition provides very small current which is nearly independent of voltage until a critical limit at which the current increases drastically.\nReason R: Below the critical voltage limit, only majority charge carriers flow which increases drastically above critical voltage.\nChoose the correct answer from the options given below.",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A.",
+        "Both A and R are true but R is NOT the correct explanation of A.",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "correct": 2,
+      "solution": "Assertion A describes the Zener/Avalanche breakdown correctly. However, Reason R is false because in reverse bias, the small current below the critical voltage is due to *minority* charge carriers, not majority charge carriers."
+    },
+    {
+      "id": 21,
+      "type": "numerical",
+      "topic": "Semiconductor Electronics",
+      "question": "A diode has Zener voltage of 10V and maximum power dissipation of 0.5W, then the minimum resistance to be used in series with this diode for safety when it is connected to a 25V power supply is ____ $\\Omega$.",
+      "correct": "300",
+      "solution": "Maximum current from diode:\n$i = \\frac{P}{V} = \\frac{0.5}{10} = 0.05~A$\nNow let the series resistance be R.\n$V_{source} = iR + V_{Zener}$\n$25 = 0.05 \\times R + 10$\n$0.05 \\times R = 15 \\Rightarrow R = \\frac{15}{0.05} = 300~\\Omega$"
+    },
+    {
+      "id": 22,
+      "type": "numerical",
+      "topic": "Kinematics",
+      "question": "A gun mounted on the ground fires bullets in all directions with same speed. The farthest distance the bullets could reach is 6.4 m. The speed of the bullets from the gun is ____ $m/s$. (take $g=10~m/s^2$)",
+      "correct": "8",
+      "solution": "$R_{max} = \\frac{v^2}{g} = 6.4$\n$\\frac{v^2}{10} = 6.4 \\Rightarrow v^2 = 64$\n$v = 8~m/s$"
+    },
+    {
+      "id": 23,
+      "type": "numerical",
+      "topic": "Magnetism and Matter",
+      "question": "Two identical small bar magnets each of dipole moment $3\\sqrt{5}~J/T$ are placed at a center to center separation of 10 cm, with their axes perpendicular to each other as shown in figure. The value of magnetic field at the point P midway between the magnets is $\\alpha \\times 10^{-3}~T$. The value of $\\alpha$ is ($\\mu_0 = 4\\pi \\times 10^{-7}~Tm/A$)",
+      "correct": "12",
+      "solution": "Distance from each magnet to P is $r = 5~cm = 0.05~m$.\nPoint P is on the axis of one magnet (B1) and on the equatorial line of the other (B2).\n$B_1 = \\frac{\\mu_0}{4\\pi}\\frac{2M}{r^3}$\n$B_2 = \\frac{\\mu_0}{4\\pi}\\frac{M}{r^3}$\nSince they are perpendicular, $B_{net} = \\sqrt{B_1^2 + B_2^2} = \\frac{\\mu_0}{4\\pi}\\frac{M}{r^3}\\sqrt{2^2 + 1^2} = \\frac{\\mu_0}{4\\pi}\\frac{M\\sqrt{5}}{r^3}$\n$B_{net} = 10^{-7} \\times \\frac{3\\sqrt{5} \\times \\sqrt{5}}{(0.05)^3} = 10^{-7} \\times \\frac{15}{125 \\times 10^{-6}} = \\frac{150}{125} \\times 10^{-4} = 1.2 \\times 10^{-4} = 12 \\times 10^{-3} = 12~mT$\n$\\alpha = 12$"
+    },
+    {
+      "id": 24,
+      "type": "numerical",
+      "topic": "Moving Charges and Magnetism",
+      "question": "A circular coil of radius 2 cm and 125 turns carries a current of 1 A. The coil is placed in a uniform magnetic field of magnitude 0.4 T. The axis of the coil makes an angle of $30^{\\circ}$ with the direction of the magnetic field. The torque acting on the coil is $\\alpha \\times 10^{-4}~N\\cdot m$. The value of $\\alpha$ is ($\\pi = 3.14$)",
+      "correct": "314",
+      "solution": "$\\tau = |\\vec{M} \\times \\vec{B}| = N I A B \\sin\\theta$\n$\\tau = 125 \\times 1 \\times \\pi(0.02)^2 \\times 0.4 \\times \\sin(30^{\\circ})$\n$= 125 \\times \\pi \\times 4 \\times 10^{-4} \\times 0.4 \\times 0.5$\n$= 100\\pi \\times 10^{-4}~N\\cdot m$\nSo $\\alpha = 100\\pi = 100 \\times 3.14 = 314$"
+    },
+    {
+      "id": 25,
+      "type": "numerical",
+      "topic": "Wave Optics",
+      "question": "In a double slit experiment, when one of the slits is covered by a transparent mica sheet of refractive index 1.56, the central fringe shifts to the position of $7^{th}$ bright fringe, obtained with both slits uncovered. If the light source wavelength is 450 nm, the thickness of mica sheet is $\\alpha \\times 10^{-9}$ m. The value of $\\alpha$ is",
+      "correct": "5625",
+      "solution": "Shift $\\Delta y = (\\mu - 1)t \\frac{D}{d} = 7 \\frac{\\lambda D}{d}$\n$(\\mu - 1)t = 7\\lambda$\n$(1.56 - 1)t = 7 \\times 450~nm$\n$0.56t = 3150~nm \\Rightarrow t = \\frac{3150}{0.56}~nm = 5625~nm$\nSince $t = \\alpha \\times 10^{-9}~m$, $\\alpha = 5625$"
+    }
+  ]
+}

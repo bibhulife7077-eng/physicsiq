@@ -1,0 +1,51 @@
+{
+  "_comment": "This is a SAMPLE/REFERENCE file only — it is ignored by the app loader (filename starts with _). Copy this file, rename it, and fill in real data to add a new paper.",
+
+  "_naming_convention": "Save the file as src/questions/{subject}_{year}_{monthslug}_{shiftkey}.json — all lowercase, no spaces. Examples: physics_2026_april2_s1.json, chemistry_2026_january4_s2.json, mathematics_2027_april2_s1.json. The filename itself is just for humans/organisation — the app reads subject/year/month/shift from the FILE CONTENTS below, not the filename, so naming mistakes won't break anything as long as the fields inside are correct.",
+
+  "subject": "Physics",
+  "_subject_note": "Must be exactly one of: \"Physics\", \"Chemistry\", \"Mathematics\" (capitalized, matches the subject cards in the UI).",
+
+  "year": "2026",
+  "_year_note": "String, four digits. Must be one of the years already listed in the app's year selector for it to be reachable (ALL_YEARS in App.jsx) — for a brand-new year, also add it there.",
+
+  "month": "April 2nd",
+  "_month_note": "String, exactly as you want it displayed as the exam-date heading, e.g. \"April 2nd\", \"January 24th\".",
+
+  "shift": "S1",
+  "_shift_note": "Short key used internally for routing/progress-tracking, e.g. \"S1\", \"S2\". Must be unique within the same subject+year+month.",
+
+  "label": "Shift 1",
+  "_label_note": "Human-readable shift name shown in the UI breadcrumb and cards.",
+
+  "date": "2nd Apr",
+  "_date_note": "Short date string shown next to the shift label, e.g. \"2nd Apr\".",
+
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Units & Measurement",
+      "question": "Example MCQ question text goes here. LaTeX math is supported using $...$ for inline and $$...$$ for block, e.g. $E = mc^2$.",
+      "options": [
+        "Option A text",
+        "Option B text",
+        "Option C text",
+        "Option D text"
+      ],
+      "correct": 1,
+      "_mcq_correct_note": "Zero-based INDEX into the options array above (0=A, 1=B, 2=C, 3=D). Here, 1 means option B is correct.",
+      "solution": "Full step-by-step solution explanation goes here."
+    },
+    {
+      "id": 21,
+      "type": "numerical",
+      "topic": "Semiconductor Electronics",
+      "question": "Example numerical-answer question. No multiple-choice options — the student types in a numeric value. Use ____ to indicate the blank, e.g. \"The resistance is ____ ohms.\"",
+      "correct": "300",
+      "_numerical_correct_note": "The correct answer as a STRING (not an array index). Can include a decimal point or a leading minus sign, e.g. \"5625\", \"-3.5\", \"0.25\". Do NOT include units or an options array for numerical questions.",
+      "solution": "Full step-by-step solution explanation goes here."
+    }
+  ],
+  "_questions_note": "type must be either \"mcq\" or \"numerical\". Question IDs should be unique within the file (commonly 1-20 are MCQ, 21-25 are numerical, matching JEE Main's actual paper pattern, but this isn't enforced by the app)."
+}

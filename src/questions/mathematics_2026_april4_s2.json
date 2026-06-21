@@ -1,0 +1,60 @@
+{
+  "subject": "Mathematics",
+  "year": "2026",
+  "month": "April 4th",
+  "shift": "S2",
+  "label": "Shift 2",
+  "date": "4th Apr",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Permutations & Combinations",
+      "question": "[Placeholder] The value of 5! (5 factorial) is:",
+      "options": [
+        "100",
+        "120",
+        "60",
+        "20"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "topic": "Vectors",
+      "question": "[Placeholder] The magnitude of vector (3,4) is:",
+      "options": [
+        "7",
+        "5",
+        "12",
+        "1"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "topic": "Trigonometry",
+      "question": "[Placeholder] The value of cos(0°) is:",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "correct": 1,
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    },
+    {
+      "id": 4,
+      "type": "numerical",
+      "topic": "Calculus",
+      "question": "[Placeholder] The value of d/dx(constant) is ___.",
+      "correct": "0",
+      "solution": "Placeholder solution — replace with real explanation once actual PYQ is added."
+    }
+  ]
+}

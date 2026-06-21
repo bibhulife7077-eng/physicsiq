@@ -1,0 +1,330 @@
+{
+  "subject": "Physics",
+  "year": "2026",
+  "month": "April 2nd",
+  "shift": "S2",
+  "label": "Shift 2",
+  "date": "2nd Apr",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Units & Measurement",
+      "question": "Dimensions of G in terms of h, L, M, T are:",
+      "options": [
+        "[hTLM⁻²]",
+        "[hT⁻¹LM⁻²]",
+        "[hTL²M⁻²]",
+        "[h⁻¹T⁻¹LM⁻²]"
+      ],
+      "correct": 1,
+      "solution": "[G]=M⁻¹L³T⁻². [h]=ML²T⁻¹. [G]=hT⁻¹LM⁻²."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "topic": "Laws of Motion",
+      "question": "0.5kg mass inside cylindrical drum (r=4m, ω=5 rad/s). Minimum μ to stay on wall is (g=10):",
+      "options": [
+        "0.1",
+        "0.5",
+        "0.7",
+        "0.3"
+      ],
+      "correct": 0,
+      "solution": "μ≥g/ω²R=10/100=0.1."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "topic": "Centre of Mass",
+      "question": "Blocks 2kg and 1kg on pulley. Distance by CM in 2s is (g=10):",
+      "options": [
+        "3.33m",
+        "3.12m",
+        "2.22m",
+        "1.42m"
+      ],
+      "correct": 2,
+      "solution": "a_cm=10/9 m/s². S=½×(10/9)×4=20/9≈2.22m."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "topic": "Electromagnetic Forces",
+      "question": "10⁻⁹C charge in E=0.4ĵ N/C and B=4×10⁻³k̂ T. Force=(4î+2ĵ)×10⁻¹⁰N. Velocity is:",
+      "options": [
+        "50î+100ĵ",
+        "100î+50ĵ",
+        "−50î+100ĵ",
+        "50î−100ĵ"
+      ],
+      "correct": 0,
+      "solution": "Comparing F=qE+q(v×B): vy=100, vx=50. v⃗=50î+100ĵ."
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "topic": "Semiconductor",
+      "question": "Logic circuit gives C=x̄+ȳ. Gate is:",
+      "options": [
+        "OR",
+        "AND",
+        "NAND",
+        "NOR"
+      ],
+      "correct": 3,
+      "solution": "C=NOT(x+y)=NOR gate."
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "topic": "Gravitation",
+      "question": "1kg body falls from infinity to Earth (R=6400km, g=9.8). v and KE on surface:",
+      "options": [
+        "11.2km/s; 6.27×10⁷J",
+        "11.2km/s; 12.54×10⁷J",
+        "8.8km/s; 6.27×10⁷J",
+        "8.8km/s; 12.54×10⁷J"
+      ],
+      "correct": 0,
+      "solution": "v=√(2gRe)=11.2km/s. KE=6.27×10⁷J."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "topic": "Units & Measurement",
+      "question": "Screw gauge: zero error=5 div, pitch=0.1mm, 100 div. MS=5mm, CS=50th div. Diameter is:",
+      "options": [
+        "5.045mm",
+        "5.055mm",
+        "5.450mm",
+        "5.550mm"
+      ],
+      "correct": 0,
+      "solution": "LC=0.001mm. Reading=5+50×0.001−5×0.001=5.045mm."
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "topic": "Surface Tension",
+      "question": "Soap bubble T=0.03N/m. Work: diameter 2cm→6cm is απ×10⁻⁴J. Value of α (π=3.14):",
+      "options": [
+        "0.86",
+        "0.64",
+        "1.92",
+        "7.68"
+      ],
+      "correct": 2,
+      "solution": "W=2T×4π(R₂²−R₁²)=1.92π×10⁻⁴J. α=1.92."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "topic": "Kinetic Theory",
+      "question": "CO₂ and O₂: V=8310cm³, T=300K, P=100kPa, m=13.2g. Moles of CO₂ and O₂:",
+      "options": [
+        "0.15&0.18",
+        "0.25&0.08",
+        "0.21&0.12",
+        "0.13&0.20"
+      ],
+      "correct": 2,
+      "solution": "n_total=1/3. 44n₁+32n₂=13.2. n₁≈0.21, n₂≈0.12."
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "topic": "Fluid Mechanics",
+      "question": "Air bubble (r=1mm) rises at 0.5cm/s through liquid (ρ=2000kg/m³). Viscosity is _____ Poise:",
+      "options": [
+        "0.88",
+        "8.8",
+        "88.8",
+        "0.088"
+      ],
+      "correct": 1,
+      "solution": "η=2ρR²g/9v≈8.8 Poise."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "topic": "Laws of Motion",
+      "question": "2kg ball falls from 10m, stops after 10cm in sand. Average force by sand is:",
+      "options": [
+        "1980N",
+        "2020N",
+        "2000N",
+        "1000N"
+      ],
+      "correct": 1,
+      "solution": "F_sand=2×10×10.1/0.1=2020N."
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "topic": "Electromagnetic Waves",
+      "question": "EM wave along x. B⃗=2×10⁻⁷ĵT. Corresponding E⃗ is:",
+      "options": [
+        "60k̂ V/m",
+        "−60k̂ V/m",
+        "30k̂ V/m",
+        "−600k̂ V/m"
+      ],
+      "correct": 1,
+      "solution": "E⃗=B⃗×C⃗=−60k̂ V/m."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "topic": "Current Electricity",
+      "question": "200Ω+400Ω series, 100V. Bulb(200V,100W) across 400Ω. Potential drop across bulb:",
+      "options": [
+        "25V",
+        "50V",
+        "66.6V",
+        "100V"
+      ],
+      "correct": 1,
+      "solution": "R_bulb=400Ω. V_bulb=50V."
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "topic": "Electrostatics",
+      "question": "Oil droplets (r=1mm, ρ=1.5g/cm³, q=5nC) between plates (sep=12/π cm). V_A and V_B:",
+      "options": [
+        "100V&580V",
+        "580V&100V",
+        "60V&400V",
+        "0V&−200V"
+      ],
+      "correct": 0,
+      "solution": "ΔV=480V. V_A=100V, V_B=580V."
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "topic": "Electrostatics",
+      "question": "8μC at x=2cm, −2μC at x=4cm. Flux ratio through spheres r=3cm and r=5cm:",
+      "options": [
+        "4:1",
+        "3:4",
+        "4:3",
+        "4:5"
+      ],
+      "correct": 2,
+      "solution": "φ₁=8μC/ε₀, φ₂=6μC/ε₀. Ratio=4:3."
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "topic": "Optics",
+      "question": "Equilateral prism (μ=1.6), painted face n₂. Minimum n₂ for TIR:",
+      "options": [
+        "3√3/1.6",
+        "√3",
+        "3.2/√3",
+        "4√3/5"
+      ],
+      "correct": 3,
+      "solution": "1.6sin60°=n₂→n₂=4√3/5."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "topic": "AC Circuits",
+      "question": "LCR two switches. S₁: phase=30°. S₂: phase=60°. |3L₁−L₂| is:",
+      "options": [
+        "9/2",
+        "2/9",
+        "1/3",
+        "3"
+      ],
+      "correct": 1,
+      "solution": "|3L₁−L₂|=2/ω²C=2/9 H."
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "topic": "Electromagnetic Induction",
+      "question": "Circular loop(R) inside square loop(L>>R), coplanar. Mutual inductance is:",
+      "options": [
+        "2√2μ₀L²/R",
+        "√2μ₀L²/R",
+        "√2μ₀R²/L",
+        "2√2μ₀R²/L"
+      ],
+      "correct": 3,
+      "solution": "M=2√2μ₀R²/L."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "topic": "Modern Physics",
+      "question": "BE per nucleon of ²⁰⁹Bi is _____ MeV. [m=208.980388u]",
+      "options": [
+        "7.48",
+        "7.84",
+        "8.79",
+        "6.94"
+      ],
+      "correct": 1,
+      "solution": "Δm=1.760877u. BE/A=1639.4/209≈7.84MeV."
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "topic": "Simple Harmonic Motion",
+      "question": "x=asin(50t+π/3). t₁ when v=0 and t₂ when a=0 are:",
+      "options": [
+        "π/300s,π/75s",
+        "π/75s,π/300s",
+        "π/300s,π/25s",
+        "π/50s,π/100s"
+      ],
+      "correct": 0,
+      "solution": "t₁=π/300s, t₂=π/75s."
+    },
+    {
+      "id": 21,
+      "type": "numerical",
+      "topic": "Optics",
+      "question": "YDSE: intensity=(3/4)I_max. Path difference=λ/x. Value of x is ___.",
+      "correct": "6",
+      "solution": "cos²(φ/2)=3/4→φ=π/3. Δx=λ/6. x=6."
+    },
+    {
+      "id": 22,
+      "type": "numerical",
+      "topic": "Modern Physics",
+      "question": "Ratio of B-fields for electrons in 2nd and 4th orbits of H-atom is ___.",
+      "correct": "64",
+      "solution": "B∝Z³/n⁵. B₂/B₄=4⁵/2⁵=32. Paper ans=64."
+    },
+    {
+      "id": 23,
+      "type": "numerical",
+      "topic": "Thermodynamics",
+      "question": "5 moles at const V, 10→20°C. Cₚ=8 cal, R≈2cal. ΔU is _____ cal.",
+      "correct": "300",
+      "solution": "Cᵥ=6. ΔU=5×6×10=300cal."
+    },
+    {
+      "id": 24,
+      "type": "numerical",
+      "topic": "Optics",
+      "question": "Convex lens 30cm above paper, R_c=60cm. Refractive index=α/10. Value of α is ___.",
+      "correct": "20",
+      "solution": "μ=2=α/10→α=20."
+    },
+    {
+      "id": 25,
+      "type": "numerical",
+      "topic": "Rotational Motion",
+      "question": "Rod(M=40kg,L=3m) and sphere(m=10kg,R) about AB (sep=3m). Equal MI. R=√(α/2). Value of α is ___.",
+      "correct": "15",
+      "solution": "I_rod=120. 4R²+90=120→α=15."
+    }
+  ]
+}

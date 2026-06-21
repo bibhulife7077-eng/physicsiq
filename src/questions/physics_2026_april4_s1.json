@@ -1,0 +1,330 @@
+{
+  "subject": "Physics",
+  "year": "2026",
+  "month": "April 4th",
+  "shift": "S1",
+  "label": "Shift 1",
+  "date": "4th Apr",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "topic": "Units & Measurement",
+      "question": "Screw gauge: 5 rotations=2.5mm, 100 circular divisions. Least count is _____ mm.",
+      "options": [
+        "1×10⁻²",
+        "1×10⁻³",
+        "5×10⁻²",
+        "5×10⁻³"
+      ],
+      "correct": 3,
+      "solution": "Pitch=0.5mm. LC=0.5/100=5×10⁻³mm."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "topic": "Fluid Mechanics",
+      "question": "ΔP=6.3×10⁷ N/m² decreases water volume. Percentage decrease (B=2.1×10⁹ N/m²):",
+      "options": [
+        "2%",
+        "3%",
+        "6%",
+        "4%"
+      ],
+      "correct": 1,
+      "solution": "ΔV/V=ΔP/β=3%."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "topic": "Laws of Motion",
+      "question": "Block slides down rough incline(45°) in 50% more time than smooth. Coefficient μ_k is:",
+      "options": [
+        "3/4",
+        "2/3",
+        "5/9",
+        "4/9"
+      ],
+      "correct": 2,
+      "solution": "t₁=1.5t₂→sinθ−μcosθ=(4/9)sinθ→μ=5/9."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "topic": "Modern Physics",
+      "question": "2×(mass no.3) + (mass no.4) → (mass no.10). BE/nucleon: 5.6, 7.4, 6.1 MeV. ΔMc² is:",
+      "options": [
+        "6.9MeV",
+        "7.9MeV",
+        "2.2MeV",
+        "4.3MeV"
+      ],
+      "correct": 2,
+      "solution": "ΔMc²=[2×3×5.6+4×7.4−6.1×10]=2.2MeV."
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "topic": "Rotational Motion",
+      "question": "Sphere(M,R): M/8→small sphere(r), 7M/8→disc(2R). Ratio I₂/I₁ is:",
+      "options": [
+        "35",
+        "70",
+        "140",
+        "210"
+      ],
+      "correct": 1,
+      "solution": "I₁=2/5×M/8×(R/2)². I₂=7M/8×(2R)²/4. I₂/I₁=70."
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "topic": "Kinematics",
+      "question": "Projectiles at 15° and 30°, same u. Ratio R₁:R₂=1:x. Value of x is:",
+      "options": [
+        "√2",
+        "√3",
+        "2√3",
+        "1/√2"
+      ],
+      "correct": 1,
+      "solution": "R∝sin2θ. R₁/R₂=sin30°/sin60°=1/√3. x=√3."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "topic": "Modern Physics",
+      "question": "V₀ vs ν graph for X₁,X₂,X₃. Which gives greater KE for same wavelength?",
+      "options": [
+        "X₁",
+        "X₂",
+        "X₃",
+        "All same"
+      ],
+      "correct": 0,
+      "solution": "Minimum work function → maximum KE. X₁ has lowest threshold."
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "topic": "Optics",
+      "question": "Slit width a, wavelength λ. Separation between 1st and 3rd minima on screen at D is:",
+      "options": [
+        "Dλ/a",
+        "1.5Dλ/a",
+        "2Dλ/a",
+        "3Dλ/a"
+      ],
+      "correct": 2,
+      "solution": "y₁=Dλ/a, y₃=3Dλ/a. Separation=2Dλ/a."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "topic": "Mechanics",
+      "question": "String A(ℓ, Y=2×10¹⁰) + String B(2ℓ, Y=4×10¹⁰) in series, load 0.8kg. Net elongation is _____ mm. (r=0.2mm)",
+      "options": [
+        "3",
+        "2",
+        "1.9",
+        "1"
+      ],
+      "correct": 1,
+      "solution": "Δℓ=2mgℓ/AY=2mm."
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "topic": "Kinetic Theory",
+      "question": "Two gases (n₁,T₁,V₁,P₁) and (n₂,T₂,V₂,P₂) mixed. Temperature of mixture is:",
+      "options": [
+        "(T₁+T₂)/2",
+        "T₁T₂PV/(T₂P₁V₁+T₁P₂V₂)",
+        "(T₂P₁V₁+T₁P₂V₂)(T₁T₂PV)",
+        "|T₁−T₂|/2"
+      ],
+      "correct": 1,
+      "solution": "T_f=T₁T₂PV/(T₂P₁V₁+T₁P₂V₂)."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "topic": "Thermodynamics",
+      "question": "Ideal gas: P=P₀(1+(V₀/V)²)⁻¹. Two samples A(V₀) and B(3V₀), 2 moles each. T_B−T_A is:",
+      "options": [
+        "9P₀V₀/8R",
+        "11P₀V₀/10R",
+        "7P₀V₀/6R",
+        "13P₀V₀/11R"
+      ],
+      "correct": 1,
+      "solution": "T_A=P₀V₀/4R. T_B=27P₀V₀/20R. T_B−T_A=11P₀V₀/10R."
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "topic": "Current Electricity",
+      "question": "Voltmeter (resistance xΩ) measures 20V. To measure 30V, connect:",
+      "options": [
+        "x/2Ω in series",
+        "x/2Ω in parallel",
+        "xΩ in series",
+        "2xΩ in parallel"
+      ],
+      "correct": 0,
+      "solution": "R=x/2. Connect x/2Ω in series."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "topic": "Semiconductor",
+      "question": "A=1101, B=1010 in logic circuit Y=A+B̄. Output Y is:",
+      "options": [
+        "Y=1101",
+        "Y=0010",
+        "Y=0111",
+        "Y=1000"
+      ],
+      "correct": 0,
+      "solution": "B̄=0101. Y=A+B̄=1101."
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "topic": "Optics",
+      "question": "Rod 10cm on principal axis of concave mirror (f=10cm). Near end at 20cm. Length of image is _____ cm.",
+      "options": [
+        "2.5",
+        "5",
+        "7.5",
+        "7"
+      ],
+      "correct": 1,
+      "solution": "v_A=−20cm, v_B=−15cm. Length=5cm."
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "topic": "Electrostatics",
+      "question": "Parallel plate capacitor connected to battery. Plates pulled at speed v. Rate of change of energy ∝ xᵃ. Value of a is:",
+      "options": [
+        "−2",
+        "1",
+        "−1",
+        "2"
+      ],
+      "correct": 0,
+      "solution": "U=ε₀Av²/2x. dU/dt∝1/x²=x⁻². a=−2."
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "topic": "Magnetic Effects",
+      "question": "Flat coil N=200, r₁=3cm, r₂=6cm, I=20mA. Magnetic moment is α×10⁻² A·m². Value of α is:",
+      "options": [
+        "4.4",
+        "2.64",
+        "3.25",
+        "1.2"
+      ],
+      "correct": 1,
+      "solution": "M≈2.64×10⁻² A·m². α=2.64."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "topic": "Semiconductor",
+      "question": "Capacitor 20μF, resistor 100Ω, two diodes (forward R=10Ω). Time constant is α×10⁻³ s. Value of α is:",
+      "options": [
+        "2.2",
+        "2.0",
+        "2.1",
+        "2.4"
+      ],
+      "correct": 0,
+      "solution": "τ=(100+20)×20×10⁻⁶=2.2×10⁻³s. α=2.2."
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "topic": "Current Electricity",
+      "question": "Four 27V batteries (r=3Ω each) in parallel, 6Ω external. Voltage and current A to B:",
+      "options": [
+        "24V,12A",
+        "24V,4A",
+        "18V,12A",
+        "27V,4A"
+      ],
+      "correct": 1,
+      "solution": "E_eq=27V, r_eq=3/4Ω. I=4A. V_AB=24V."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "topic": "Optics",
+      "question": "Telescope (obj. dia R) observing star (λ=500nm) at resolution 5×10⁻⁷ rad. Value of R is _____ cm.",
+      "options": [
+        "61",
+        "122",
+        "244",
+        "305"
+      ],
+      "correct": 1,
+      "solution": "R=1.22λ/θ=122cm."
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "topic": "Optics",
+      "question": "Unpolarized light at Brewster's angle on air-dielectric (+z propagation). Reflected wave is:",
+      "options": [
+        "(Exî+Eyĵ)sin(kx−kz−ωt)",
+        "(Exî+Ezk̂)sin(kx+ky−ωt)",
+        "(Exĵ+Eyk̂)sin(ky+kz−ωt)",
+        "(Exî+Eyĵ+Ezk̂)sin(kx+ky−kz−ωt)"
+      ],
+      "correct": 0,
+      "solution": "Reflected at Brewster's angle is plane polarized. No z-component in E."
+    },
+    {
+      "id": 21,
+      "type": "numerical",
+      "topic": "Mechanics",
+      "question": "1kg block, forces (2î+3ĵ+4k̂)N and (3î−ĵ−2k̂)N, moved 25m along (3î−4ĵ). Work done is _____ J.",
+      "correct": "35",
+      "solution": "F_net=5î+2ĵ+2k̂. S=15î−20ĵ. W=75−40=35J."
+    },
+    {
+      "id": 22,
+      "type": "numerical",
+      "topic": "Surface Tension",
+      "question": "Soap solution T=3.5×10⁻² N/m. Work to increase bubble radius 1cm→2cm is α×10⁻⁶J. Value of α is ___. (π=22/7)",
+      "correct": "264",
+      "solution": "W=2T×4π(R₂²−R₁²)=264×10⁻⁶J. α=264."
+    },
+    {
+      "id": 23,
+      "type": "numerical",
+      "topic": "Simple Harmonic Motion",
+      "question": "SHM: v²=50−x². Time period is x/7 s. Value of x is ___.",
+      "correct": "44",
+      "solution": "ω=1. T=2π≈6.28. x=14π≈44."
+    },
+    {
+      "id": 24,
+      "type": "numerical",
+      "topic": "Mechanics",
+      "question": "2kg body, F⃗=(2tî+6t²ĵ)N. Power at t=2s is _____ W.",
+      "correct": "200",
+      "solution": "v⃗=(2î+8ĵ)m/s at t=2. F⃗=(4î+24ĵ)N. P=8+192=200W."
+    },
+    {
+      "id": 25,
+      "type": "numerical",
+      "topic": "AC Circuits",
+      "question": "LCR: L=10mH, C=0.1μF, R=100Ω, 220V 70Hz, cosφ=0.5. |X_L−X_C|=√3·α Ω. Value of α is ___.",
+      "correct": "100",
+      "solution": "tanφ=√3→|X_L−X_C|=100√3=√3×100. α=100."
+    }
+  ]
+}
