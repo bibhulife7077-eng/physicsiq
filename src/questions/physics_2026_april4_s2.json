@@ -3,7 +3,7 @@
 "id": 1,
 "type": "mcq",
 "topic": "Units and Measurements",
-"question": "Match the LIST-I with LIST-II\n\n| List-I | List-II |\n| :--- | :--- |\n| A. Planck's constant | I. ML²T² |\n| B. Stopping potential | II. T⁺¹ |\n| C. Work function | III. ML²T⁻¹ |\n| D. Threshold frequency | IV. ML²T⁻³A⁻¹ |\n\nChoose the correct answer from the options given below:",
+"question": "Match the LIST-I with LIST-II\n\nLIST-I\nA. Planck's constant\nB. Stopping potential\nC. Work function\nD. Threshold frequency\n\nLIST-II\nI. ML²T²\nII. T⁺¹\nIII. ML²T⁻¹\nIV. ML²T⁻³A⁻¹\n\nChoose the correct answer from the options given below:",
 "options": [
 "A-III, B-IV, C-I, D-II",
 "A-I, B-II, C-III, D-IV",
@@ -11,21 +11,21 @@
 "A-I, B-IV, C-III, D-II"
 ],
 "correct": 0,
-"solution": "(i) [h] = [E]/[ν] = ML²T⁻²/T⁻¹ = ML²T⁻¹\n(ii) Stopping potential: E = q.V₀ => [V₀] = [E]/[q] = ML²T⁻²/AT = ML²T⁻³A⁻¹\n(iii) Work function (φ) -> Energy form => [φ] = ML²T⁻²\n(iv) Threshold freq. [ν₀] = T⁻¹"
+"solution": "[h] = [E]/[ν] = ML²T⁻²/T⁻¹ = ML²T⁻¹\nStopping potential: E = q.V₀ => [V₀] = [E]/[q] = ML²T⁻²/AT = ML²T⁻³A⁻¹\nWork function (φ) -> Energy form => [φ] = ML²T⁻²\nThreshold freq. [ν₀] = T⁻¹"
 },
 {
 "id": 2,
 "type": "mcq",
 "topic": "Kinematics",
-"question": "Two cars A and B are moving in the same direction along a straight line with speeds 100 km/h and 80 km/h, respectively such that car A is moving ahead of car B. A person in car B throws a stone with a speed v so that it hits the car A with a speed of 5 m/s. The value of v is",
+"question": "Two cars A and B are moving in the same direction along a straight line with speeds 100 km/h and 80 km/h, respectively such that car A is moving ahead of car B. A person in car B throws a stone with a speed v so that it hits the car A with a speed of 5m/s. The value of v is",
 "options": [
 "18 km/h",
-"28 km/h",
-"38 km/h",
-"48 km/h"
+"28",
+"38",
+"48"
 ],
 "correct": 2,
-"solution": "Vsa = 5 m/s = 18 km/hr\nVs - Va = Vsa\nVs = V + 80\nV + 80 - 100 = 18\nV - 20 = 18 => V = 38 km/hr"
+"solution": "Vsa = 5 m/s = 18 km/hr\nVs - Va = Vsa\nVs = V + 80\nV + 80 - 100 = 18 km/hr\nV - 20 = 18\nV = 38 km/hr"
 },
 {
 "id": 3,
@@ -39,13 +39,13 @@
 "5:4"
 ],
 "correct": 3,
-"solution": "a = F/m = (5î + 10ĵ)/0.1 = (50î + 100ĵ)\ns = ut + ½at²\ns = 0 + ½(50î + 100ĵ)(2)²\ns = 100î + 200ĵ = r = 2xî + 5yĵ\n2x = 100 => x = 50\n5y = 200 => y = 40\nx/y = 50/40 = 5/4"
+"solution": "a = F/m = (5î + 10ĵ)/0.1 = (50î + 100ĵ)\ns = ut + ½at²\ns = 0 + ½(50î + 100ĵ)(2)²\ns = 100î + 200ĵ = r = 2xî + 5yĵ\n2x = 100 => x = 50\n5y = 200 => y = 100 (from given solution text)\nx/y = 5/4"
 },
 {
 "id": 4,
 "type": "mcq",
 "topic": "Kinematics",
-"question": "If x and y coordinates of a projectile as a function of time (t) are given as 24t and 43.6t - 4.9t² respectively, then the angle (in degrees) made by the projectile with horizontal when t = 2 is",
+"question": "If x and y coordinates of a projectile as a function of time (t) are given as 24t and 43.6t - 4.9t² respectively, then the angle (in degrees) made by the projectile with horizontal when t=2 is",
 "options": [
 "60",
 "45",
@@ -53,7 +53,7 @@
 "75"
 ],
 "correct": 1,
-"solution": "x = 24t => vx = dx/dt = 24\ny = 43.6t - 4.9t² => vy = dy/dt = 43.6 - 9.8t\ntan θ = vy/vx = (43.6 - 9.8t)/24\nAt t = 2, (43.6 - 19.6)/24 = 24/24 = 1\ntan θ = 1 => θ = 45°"
+"solution": "x = 24t => vx = dx/dt = 24\ny = 43.6t - 4.9t² => vy = dy/dt = 43.6 - 9.8t\ntan θ = vy/vx = (43.6 - 9.8t)/24\nAt t=2, (43.6 - 19.6)/24 = 24/24 = 1\ntan θ = 1 => θ = 45°"
 },
 {
 "id": 5,
@@ -67,7 +67,7 @@
 "4/9 R"
 ],
 "correct": 2,
-"solution": "gh = g / (1 + h/R)²\ng/9 = g / (1 + h/R)²\n1 + h/R = 3 => h/R = 2 => h = 2R"
+"solution": "gh = g / (1 + h/R)²\ng/9 = g / (1 + h/R)²\n1 + h/R = 3 => h = 2R"
 },
 {
 "id": 6,
@@ -81,7 +81,7 @@
 "6"
 ],
 "correct": 3,
-"solution": "Δl = Tl/YA\nFor string A: Tension Ta = 3mg, length la = l, Young's modulus Ya = Y\nΔl₁ = 3mgl / YA\nFor string B: Tension Tb = 2mg, length lb = l/2, Young's modulus Yb = 2Y\nΔl₂ = 2mg(l/2) / (2YA) = mgl / (2YA)\nΔl₁ / Δl₂ = (3mgl / YA) / (mgl / 2YA) = 6"
+"solution": "Δl = Tl/YA\nΔl₁ = 3mgl/YA\nΔl₂ = 2mg(l/2)/(2YA) = mgl/2YA\nΔl₁/Δl₂ = 6"
 },
 {
 "id": 7,
@@ -95,13 +95,13 @@
 "15 × 10² m/s"
 ],
 "correct": 1,
-"solution": "Using equation of continuity:\nAV = 10av\nv = AV / 10a = (30 × 50) / (10 × 0.15) = 1000 cm/s = 10 m/s"
+"solution": "Using equation of continuity\nAV = 10av\nv = AV/10a = (30 × 50) / (10 × 0.15) = 1000 cm/s = 10 m/s"
 },
 {
 "id": 8,
 "type": "mcq",
 "topic": "Kinetic Theory of Gases",
-"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: If the average kinetic energy of H₂ and O₂ molecules, kept in two different sized containers are same, then their temperatures will be same.\nReason R: The r.m.s. speed of H₂ and O₂ molecules are same at same temperature.\nChoose the correct answer from the options given below:",
+"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: If the average kinetic energy of H₂ and O₂ molecules, kept in two different sized containers are same, then their temperatures will be same.\nReason R: The r.m.s. speed of H₂ and O₂ molecules are same at same temperature.\nChoose the correct answer from the options given below",
 "options": [
 "Both A and R are true and R is the correct explanation of A",
 "Both A and R are true but R is NOT the correct explanation of A",
@@ -109,13 +109,13 @@
 "A is false but R is true"
 ],
 "correct": 2,
-"solution": "Avg. kinetic energy of a molecule is (f/2)kT, so if kinetic energies are same, temperatures are same (Assertion A is true).\nBut vrms = √(3RT/M). Since molar mass M is different for H₂ and O₂, vrms is different (Reason R is false)."
+"solution": "Avg. kinetic energy of molecule will be (f/2)KT. But vrms = √(3RT/M). Molar mass M is different so vrms is different."
 },
 {
 "id": 9,
 "type": "mcq",
 "topic": "Thermal Properties of Matter",
-"question": "The temperature of a metal strip having coefficient of linear expansion α is increased from T₁ to T₂ resulting in increase of its length by ΔL₁. The temperature is further increased from T₂ to T₃ such that the increase in its length is ΔL₂. Given T₃ + T₁ = 2T₂ and T₂ - T₁ = ΔT, the value of ΔL₂ is",
+"question": "The temperature of a metal strip having coefficient of linear expansion α is increased from T₁ to T₂ resulting in increase of its length by ΔL₁. The temperature is further increased from T₂ to T₃ such that the increase in its length is ΔL₂.\nGiven T₃ + T₁ = 2T₂ and T₂ - T₁ = ΔT, the value of ΔL₂ is",
 "options": [
 "ΔL₁[1 + 2α²(ΔT)²]",
 "ΔL₁[1 + α²(ΔT)²]",
@@ -123,13 +123,15 @@
 "ΔL₁[1 + αΔT]"
 ],
 "correct": 3,
-"solution": "ΔL₁ = L₀α(T₂ - T₁) = L₀αΔT\nFinal length at T₂ = L₀ + ΔL₁\nΔL₂ = (L₀ + ΔL₁)α(T₃ - T₂) and T₃ - T₂ = T₂ - T₁ = ΔT\nΔL₂ = L₀αΔT + ΔL₁αΔT\n= ΔL₁ + ΔL₁αΔT = ΔL₁(1 + αΔT)"
+"solution": "ΔL₁ = L₀α(T₂ - T₁)\nSo final length at T₂ = L₀ + ΔL₁\nΔL₂ = (L₀ + ΔL₁)α(T₃ - T₂) and T₃ - T₂ = T₂ - T₁ = ΔT\nΔL₂ = L₀αΔT + ΔL₁αΔT\n= ΔL₁ + ΔL₁αΔT = ΔL₁(1 + αΔT)"
 },
 {
 "id": 10,
 "type": "mcq",
 "topic": "Oscillations",
-"question": "A uniform disc of radius R and mass M is free to oscillate about the axis A as shown in the figure (axis is at the edge of the disc). For small oscillations the time period is (g is acceleration due to gravity)",
+"hasFigure": true,
+"figureNote": "Figure present in original paper",
+"question": "A uniform disc of radius R and mass M is free to oscillate about the axis A as shown in the figure. For small oscillations the time period is (g is acceleration due to gravity)",
 "options": [
 "2π√(5R/4g)",
 "2π√(2R/3g)",
@@ -137,12 +139,12 @@
 "2π√(3R/g)"
 ],
 "correct": 0,
-"solution": "Moment of inertia about axis A:\nI = mR²/4 + mR² = 5mR²/4\nFor small displacement τ = -mgRθ\nα = -mgRθ / (5mR²/4) = -(4g/5R)θ\nω = √(4g/5R)\nT = 2π√(5R/4g)"
+"solution": "Idisc = mR²/4 + mR² = 5mR²/4\nFor small displacement τ = -mgRθ\nα = -(mgR / (5mR²/4))θ = -(4g/5R)θ\nω = √(4g/5R)\nT = 2π√(5R/4g)"
 },
 {
 "id": 11,
 "type": "mcq",
-"topic": "Electrostatics",
+"topic": "Oscillations",
 "question": "A rigid dipole undergoes a simple harmonic motion about its centre in the presence of an electric field E₁ = E₀x̂. If another electric field E₂ = 2E₀(ŷ + ẑ) is introduced to the system, what will be the percentage change in the frequency of the oscillation (approximate)?",
 "options": [
 "73%",
@@ -151,13 +153,15 @@
 "53%"
 ],
 "correct": 0,
-"solution": "Initial frequency fi = (1/2π)√(pE₀/I)\nFinal electric field E = E₀î + 2E₀(ĵ + k̂)\nMagnitude Efinal = √(E₀² + 4E₀² + 4E₀²) = 3E₀\nFinal Frequency ff = (1/2π)√(p(3E₀)/I) = √3 fi\n% change = (Δf/fi) × 100 = (√3 - 1) × 100 ≈ 73%"
+"solution": "Initial freq. fi = (1/2π)√(P(E₀)/I)\nFinal EF = E₀î + 2E₀(ĵ + k̂)\nMagnitude = 3E₀\nFinal Freq. ff = (1/2π)√(P(3E₀)/I)\n%change = Δf/fi = (√3 - 1) × 100 ≈ 73%"
 },
 {
 "id": 12,
 "type": "mcq",
 "topic": "Capacitors",
-"question": "From the circuit given below, the capacitance between terminals A and B shown in the circuit is μF. (take C₁=C₂=C₃=1μF and C₄=2μF.)",
+"hasFigure": true,
+"figureNote": "Figure present in original paper",
+"question": "From the circuit given below, the capacitance between terminals A and B shown in the circuit is µF. (take C₁ = C₂ = C₃ = 1µF and C₄ = 2µF.)",
 "options": [
 "2",
 "7/2",
@@ -165,7 +169,7 @@
 "5/2"
 ],
 "correct": 1,
-"solution": "Simplifying the circuit configuration, the equivalent capacitance Cab = 7/2 μF."
+"solution": "Cab = 7/2 µF"
 },
 {
 "id": 13,
@@ -179,7 +183,7 @@
 "A is false but R is true"
 ],
 "correct": 1,
-"solution": "Both statements are theoretically true. A conductor in electrostatics cannot have net charge inside its volume (charges reside on the surface). Inside a capacitor, there is a uniform electric field, so any free charge placed there will experience a force (F=qE) and drift. However, Reason R is not the correct explanation for Assertion A."
+"solution": "Theoretical"
 },
 {
 "id": 14,
@@ -193,7 +197,7 @@
 "1/(4π)"
 ],
 "correct": 1,
-"solution": "H = B/μ = B/(μ₀μr) = 1 / (400 × 4π × 10⁻⁷)\nH = 1 / (1600π × 10⁻⁷) = 1/(16π) × 10⁵\nSo α = 1/(16π)"
+"solution": "H = B/μ = B/(μ₀μr) = 1 / (400 × 4π × 10⁻⁷)\nH = 1/(16π) × 10⁵\nα = 1/(16π)"
 },
 {
 "id": 15,
@@ -207,7 +211,7 @@
 "E = νλB₀sin(2πνt - 2πx/λ)î"
 ],
 "correct": 0,
-"solution": "Direction of propagation is +x (from the term t - x/c), so ĉ = î.\nÊ × B̂ = ĉ\nÊ × ĵ = î => Ê = -k̂\nAlso, E₀ / B₀ = c = νλ => E₀ = B₀νλ.\nTherefore, E = -νλB₀sin(2πνt - 2πx/λ)k̂"
+"solution": "Ê × B̂ = Ĉ\nB̂ = ĵ, Ĉ = î\nÊ = -k̂\nE₀/B₀ = c = νλ => E₀ = B₀νλ\nE = -νλB₀sin(2πνt - 2πx/λ)k̂"
 },
 {
 "id": 16,
@@ -221,7 +225,7 @@
 "1.25"
 ],
 "correct": 3,
-"solution": "1/f = (μ - 1)(1/R₁ - 1/R₂)\n1/f = (1.4 - 1)(1/R - (-1/R)) = 0.4 × 2/R = 0.8/R\nf/R = 1/0.8 = 1.25"
+"solution": "1/f = (1.4 - 1)(1/R - (-1/R))\n1/f = 0.8/R\nf/R = 1.25"
 },
 {
 "id": 17,
@@ -235,7 +239,7 @@
 "4/9"
 ],
 "correct": 2,
-"solution": "Initial intensity I₀.\nIntensity after 1st polarizer (30°) is I₁ = I₀/2.\nWithout 3rd polarizer:\nAngle between 1st (30°) and 2nd (90°) is 60°.\nI_without = (I₀/2)cos²(60°) = (I₀/2) × (1/4) = I₀/8.\nWith 3rd polarizer (60°):\nAngle between 1st and 3rd is 30°, angle between 3rd and 2nd is 30°.\nI_with = (I₀/2)cos²(30°)cos²(30°) = (I₀/2) × (3/4) × (3/4) = 9I₀/32.\nRatio = (9I₀/32) / (I₀/8) = 9/4."
+"solution": "I₀ -> I₀/2\nWithout 3rd: (I₀/2)cos²(60°) = I₀/8\nWith 3rd: (I₀/2)cos²(30°)cos²(30°) = (I₀/2) × (3/4) × (3/4) = 9I₀/32\nRatio = (9I₀/32) / (I₀/8) = 9/4"
 },
 {
 "id": 18,
@@ -249,7 +253,7 @@
 "A, C, E Only"
 ],
 "correct": 3,
-"solution": "Alpha particles rebounding back (180°) implies a head-on collision (impact parameter b ≈ 0). Since the nucleus is very small, very few alpha particles have such a small impact parameter and undergo head-on collision. Statements A, C, and E are correct."
+"solution": "Theoretical"
 },
 {
 "id": 19,
@@ -263,13 +267,13 @@
 "(mp/me)²"
 ],
 "correct": 0,
-"solution": "λ = h/√(2mqV)\nSince they are accelerated through the same potential V and have same charge magnitude q, λ ∝ 1/√m.\nλe/λp = √(mp/me)"
+"solution": "λ = h/√(2mqV) ∝ 1/√m\nλe/λp = √(mp/me)"
 },
 {
 "id": 20,
 "type": "mcq",
 "topic": "Semiconductor Electronics",
-"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: A diode under reverse-biased condition provides very small current which is nearly independent of voltage until a critical limit at which the current increases drastically.\nReason R: Below the critical voltage limit, only majority charge carriers flow which increases drastically above critical voltage.\nChoose the correct answer from the options given below.",
+"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: A diode under reverse- biased condition provides very small current which is nearly independent of voltage until a critical limit at which the current increases drastically.\nReason R: Below the critical voltage limit, only majority charge carriers flow which increases drastically above critical voltage.\nChoose the correct answer from the options given below.",
 "options": [
 "Both A and R are true and R is the correct explanation of A.",
 "Both A and R are true but R is NOT the correct explanation of A.",
@@ -277,7 +281,7 @@
 "A is false but R is true"
 ],
 "correct": 2,
-"solution": "Assertion A describes the Zener/Avalanche breakdown correctly. However, Reason R is false because in reverse bias, the small current below the critical voltage is due to minority charge carriers, not majority charge carriers."
+"solution": "Theoretical"
 },
 {
 "id": 21,
@@ -285,23 +289,25 @@
 "topic": "Semiconductor Electronics",
 "question": "A diode has Zener voltage of 10V and maximum power dissipation of 0.5W, then the minimum resistance to be used in series with this diode for safety when it is connected to a 25V power supply is ____ Ω.",
 "correct": "300",
-"solution": "Maximum current from diode:\ni = P/V = 0.5/10 = 0.05 A\nNow let the series resistance be R.\nV_source = iR + V_Zener\n25 = 0.05 × R + 10\n0.05 × R = 15 => R = 15/0.05 = 300 Ω"
+"solution": "Maximum current from diode\ni = P/V = 0.5/10 = 0.05A\nNow let resistance is R\n25 = 0.05 × R + 10\nR = 15/0.05 = 300 Ω"
 },
 {
 "id": 22,
 "type": "numerical",
 "topic": "Kinematics",
-"question": "A gun mounted on the ground fires bullets in all directions with same speed. The farthest distance the bullets could reach is 6.4 m. The speed of the bullets from the gun is ____ m/s. (take g=10 m/s²)",
+"question": "A gun mounted on the ground fires bullets in all directions with same speed. The farthest distance the bullets could reach is 6.4 m. The speed of the bullets from the gun is ____ m/s. (take g = 10 m/s²)",
 "correct": "8",
-"solution": "Rmax = v²/g = 6.4\nv²/10 = 6.4 => v² = 64\nv = 8 m/s"
+"solution": "Rmax = v²/g = 6.4\nv = √64 = 8 m/s"
 },
 {
 "id": 23,
 "type": "numerical",
 "topic": "Magnetism and Matter",
+"hasFigure": true,
+"figureNote": "Figure present in original paper",
 "question": "Two identical small bar magnets each of dipole moment 3√5 J/T are placed at a center to center separation of 10 cm, with their axes perpendicular to each other as shown in figure. The value of magnetic field at the point P midway between the magnets is α × 10⁻³ T. The value of α is (μ₀ = 4π × 10⁻⁷ Tm/A)",
 "correct": "12",
-"solution": "Distance from each magnet to P is r = 5 cm = 0.05 m.\nPoint P is on the axis of one magnet (B₁) and on the equatorial line of the other (B₂).\nB₁ = (μ₀/4π)(2M/r³)\nB₂ = (μ₀/4π)(M/r³)\nSince they are perpendicular, Bnet = √(B₁² + B₂²) = (μ₀/4π)(M/r³)√(2² + 1²) = (μ₀/4π)(M√5/r³)\nBnet = 10⁻⁷ × (3√5 × √5)/(0.05)³ = 10⁻⁷ × 15/(125 × 10⁻⁶) = 150/125 × 10⁻⁴ = 1.2 × 10⁻⁴ = 12 × 10⁻³ = 12 mT\nα = 12"
+"solution": "Bnet = √(B₁² + B₂²) = (μ₀/4π) (M/r³) √5\n= 10⁻⁷ × 3√5 × √5 × (8 / 10⁻³)\n= 120 × 10⁻⁴ = 12 mT\nα = 12"
 },
 {
 "id": 24,
@@ -309,7 +315,7 @@
 "topic": "Moving Charges and Magnetism",
 "question": "A circular coil of radius 2 cm and 125 turns carries a current of 1 A. The coil is placed in a uniform magnetic field of magnitude 0.4 T. The axis of the coil makes an angle of 30° with the direction of the magnetic field. The torque acting on the coil is α × 10⁻⁴ N·m. The value of α is (π = 3.14)",
 "correct": "314",
-"solution": "τ = N I A B sin θ\nτ = 125 × 1 × π(0.02)² × 0.4 × sin(30°)\nτ = 125 × π × 4 × 10⁻⁴ × 0.4 × 0.5 = 100π × 10⁻⁴ N·m\nSo α = 100π = 100 × 3.14 = 314"
+"solution": "τ = |M × B| = |NIA × B|\nτ = 125 × 1 × π(2/100)² × 0.4 × sin 30°\n= 100π × 10⁻⁴ N·m\nSo α = 100π = 314"
 },
 {
 "id": 25,
@@ -317,6 +323,6 @@
 "topic": "Wave Optics",
 "question": "In a double slit experiment, when one of the slits is covered by a transparent mica sheet of refractive index 1.56, the central fringe shifts to the position of 7th bright fringe, obtained with both slits uncovered. If the light source wavelength is 450 nm, the thickness of mica sheet is α × 10⁻⁹ m. The value of α is",
 "correct": "5625",
-"solution": "Shift Δy = (μ - 1)t D/d = 7 λD/d\n(μ - 1)t = 7λ\n(1.56 - 1)t = 7 × 450 nm\n0.56t = 3150 nm => t = 3150/0.56 nm = 5625 nm\nSince t = α × 10⁻⁹ m, α = 5625"
+"solution": "Δy = (μ - 1)t D/d = 7 λD/d\n(μ - 1)t = 7λ\n(1.56 - 1)t = 7 × 450 nm\nt = 5625 nm"
 }
 ]
