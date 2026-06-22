@@ -1,4 +1,11 @@
-[
+{
+"subject": "Physics",
+"year": "2026",
+"month": "April 4th",
+"shift": "S2",
+"label": "Shift 2",
+"date": "4th Apr",
+"questions": [
 {
 "id": 1,
 "type": "mcq",
@@ -326,3 +333,5 @@
 "solution": "Δy = (μ - 1)t D/d = 7 λD/d\n(μ - 1)t = 7λ\n(1.56 - 1)t = 7 × 450 nm\nt = 5625 nm"
 }
 ]
+}
+
