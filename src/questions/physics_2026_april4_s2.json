@@ -24,7 +24,9 @@
 "id": 2,
 "type": "mcq",
 "topic": "Kinematics",
-"question": "Two cars A and B are moving in the same direction along a straight line with speeds 100 km/h and 80 km/h, respectively such that car A is moving ahead of car B. A person in car B throws a stone with a speed v so that it hits the car A with a speed of 5m/s. The value of v is",
+"question": "Two cars A and B are moving in the same
+direction along a straight line with speeds 100 km/h and 80 km/h, respectively such that car A is moving ahead of car B. A person in car B throws a stone with a speed v so that it hits the car A with a speed of 5m/s.
+The value of v is",
 "options": [
 "18 km/h",
 "28",
@@ -38,7 +40,8 @@
 "id": 3,
 "type": "mcq",
 "topic": "Laws of Motion",
-"question": "At t=0, a body of mass 100 g starts moving under the influence of a force (5î + 10ĵ)N. After 2s its position is (2xî + 5yĵ)m. The ratio x : y is",
+"question": "At t=0, a body of mass 100 g starts moving under the influence of a force (5î + 10ĵ)N.
+After 2s its position is (2xî + 5yĵ)m. The ratio x : y is",
 "options": [
 "1:2",
 "2:5",
@@ -52,7 +55,8 @@
 "id": 4,
 "type": "mcq",
 "topic": "Kinematics",
-"question": "If x and y coordinates of a projectile as a function of time (t) are given as 24t and 43.6t - 4.9t² respectively, then the angle (in degrees) made by the projectile with horizontal when t=2 is",
+"question": "If x and y coordinates of a projectile as a function of time (t) are given as 24t and 43.6t - 4.9t² respectively, then the angle (in degrees) made by the projectile
+with horizontal when t=2 is",
 "options": [
 "60",
 "45",
@@ -74,13 +78,16 @@
 "4/9 R"
 ],
 "correct": 2,
-"solution": "gh = g / (1 + h/R)²\ng/9 = g / (1 + h/R)²\n1 + h/R = 3 => h = 2R"
+"solution": "gh = g / (1 + h/R)²\ng/9 = g / (1 +
+h/R)²\n1 + h/R = 3 => h = 2R"
 },
 {
 "id": 6,
 "type": "mcq",
 "topic": "Properties of Solids",
-"question": "A metal string A is suspended from a rigid support and its free end is attached to a block of mass M. Second block having mass 2M is suspended at the bottom of the first block using a string B. The area of cross sections of strings A and B are same. The ratio of lengths of strings of A to B is 2 and the ratio of their Young's moduli (Ya/Yb) is 0.5. The ratio of elongations in A to B is",
+"question": "A metal string A is suspended from a rigid support and its free end is attached to a block of mass M. Second block having mass 2M is suspended at the bottom of the first block using a string B. The area of cross sections of strings A and B are same.
+The ratio of lengths of strings of A to B is 2 and the ratio of their Young's moduli (Ya/Yb) is 0.5.
+The ratio of elongations in A to B is",
 "options": [
 "1",
 "4",
@@ -94,7 +101,10 @@
 "id": 7,
 "type": "mcq",
 "topic": "Fluid Mechanics",
-"question": "A water spray gun is attached to a hose of cross sectional area 30 cm². The gun comprises of 10 perforations each of cross sectional area of 15 mm². If the water flows in the hose with the speed of 50 cm/s, calculate the speed at which the water flows out from each perforation. (Neglect any edge effects)",
+"question": "A water spray gun is attached to a hose of cross sectional area 30 cm².
+The gun comprises of 10 perforations each of cross sectional area of 15 mm².
+If the water flows in the hose with the speed of 50 cm/s, calculate the speed at which the water flows out from each perforation.
+(Neglect any edge effects)",
 "options": [
 "100 m/s",
 "10 m/s",
@@ -108,7 +118,8 @@
 "id": 8,
 "type": "mcq",
 "topic": "Kinetic Theory of Gases",
-"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: If the average kinetic energy of H₂ and O₂ molecules, kept in two different sized containers are same, then their temperatures will be same.\nReason R: The r.m.s. speed of H₂ and O₂ molecules are same at same temperature.\nChoose the correct answer from the options given below",
+"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: If the average kinetic energy of H₂ and O₂ molecules, kept in two different sized containers are same, then their temperatures will be same.\nReason R: The r.m.s.
+speed of H₂ and O₂ molecules are same at same temperature.\nChoose the correct answer from the options given below",
 "options": [
 "Both A and R are true and R is the correct explanation of A",
 "Both A and R are true but R is NOT the correct explanation of A",
@@ -116,13 +127,16 @@
 "A is false but R is true"
 ],
 "correct": 2,
-"solution": "Avg. kinetic energy of molecule will be (f/2)KT. But vrms = √(3RT/M). Molar mass M is different so vrms is different."
+"solution": "Avg.
+kinetic energy of molecule will be (f/2)KT. But vrms = √(3RT/M).
+Molar mass M is different so vrms is different."
 },
 {
 "id": 9,
 "type": "mcq",
 "topic": "Thermal Properties of Matter",
-"question": "The temperature of a metal strip having coefficient of linear expansion α is increased from T₁ to T₂ resulting in increase of its length by ΔL₁. The temperature is further increased from T₂ to T₃ such that the increase in its length is ΔL₂.\nGiven T₃ + T₁ = 2T₂ and T₂ - T₁ = ΔT, the value of ΔL₂ is",
+"question": "The temperature of a metal strip having coefficient of linear expansion α is increased from T₁ to T₂ resulting in increase of its length by ΔL₁.
+The temperature is further increased from T₂ to T₃ such that the increase in its length is ΔL₂.\nGiven T₃ + T₁ = 2T₂ and T₂ - T₁ = ΔT, the value of ΔL₂ is",
 "options": [
 "ΔL₁[1 + 2α²(ΔT)²]",
 "ΔL₁[1 + α²(ΔT)²]",
@@ -138,7 +152,10 @@
 "topic": "Oscillations",
 "hasFigure": true,
 "figureNote": "Figure present in original paper",
-"question": "A uniform disc of radius R and mass M is free to oscillate about the axis A as shown in the figure. For small oscillations the time period is (g is acceleration due to gravity)",
+"image": "physics_2026_april4_s2_q10.png",
+"question": "A uniform disc of radius R and
+mass M is free to oscillate about the axis A as shown in the figure.
+For small oscillations the time period is (g is acceleration due to gravity)",
 "options": [
 "2π√(5R/4g)",
 "2π√(2R/3g)",
@@ -152,7 +169,8 @@
 "id": 11,
 "type": "mcq",
 "topic": "Oscillations",
-"question": "A rigid dipole undergoes a simple harmonic motion about its centre in the presence of an electric field E₁ = E₀x̂. If another electric field E₂ = 2E₀(ŷ + ẑ) is introduced to the system, what will be the percentage change in the frequency of the oscillation (approximate)?",
+"question": "A rigid dipole undergoes a simple harmonic motion about its centre in the presence of an electric field E₁ = E₀x̂.
+If another electric field E₂ = 2E₀(ŷ + ẑ) is introduced to the system, what will be the percentage change in the frequency of the oscillation (approximate)?",
 "options": [
 "73%",
 "63%",
@@ -160,7 +178,9 @@
 "53%"
 ],
 "correct": 0,
-"solution": "Initial freq. fi = (1/2π)√(P(E₀)/I)\nFinal EF = E₀î + 2E₀(ĵ + k̂)\nMagnitude = 3E₀\nFinal Freq. ff = (1/2π)√(P(3E₀)/I)\n%change = Δf/fi = (√3 - 1) × 100 ≈ 73%"
+"solution": "Initial freq.
+fi = (1/2π)√(P(E₀)/I)\nFinal EF = E₀î + 2E₀(ĵ + k̂)\nMagnitude = 3E₀\nFinal Freq.
+ff = (1/2π)√(P(3E₀)/I)\n%change = Δf/fi = (√3 - 1) × 100 ≈ 73%"
 },
 {
 "id": 12,
@@ -168,7 +188,9 @@
 "topic": "Capacitors",
 "hasFigure": true,
 "figureNote": "Figure present in original paper",
-"question": "From the circuit given below, the capacitance between terminals A and B shown in the circuit is µF. (take C₁ = C₂ = C₃ = 1µF and C₄ = 2µF.)",
+"image": "physics_2026_april4_s2_q12.png",
+"question": "From the circuit given below, the capacitance between terminals A and B shown in the circuit is µF.
+(take C₁ = C₂ = C₃ = 1µF and C₄ = 2µF.)",
 "options": [
 "2",
 "7/2",
@@ -185,7 +207,8 @@
 "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: In electrostatics, a conductor does not store any net charge inside.\nReason R: Inside the capacitor (with no dielectric medium), the free charge carriers, if placed between the plates of capacitor, experience force and drift.\nChoose the correct answer from the options given below.",
 "options": [
 "Both A and R are true and R is the correct explanation of A.",
-"Both A and R are true but R is NOT the correct explanation of A.",
+"Both A and R
+are true but R is NOT the correct explanation of A.",
 "A is true but R is false",
 "A is false but R is true"
 ],
@@ -196,7 +219,9 @@
 "id": 14,
 "type": "mcq",
 "topic": "Magnetism and Matter",
-"question": "A solenoid has a core made of material with relative permeability 400. The magnetic field produced in the interior of solenoid is 1.0T. The magnetic intensity is SI units is α × 10⁵. The value of α is (Free space permeability μ₀ = 4π × 10⁻⁷ SI units).",
+"question": "A solenoid has a core made of material with relative permeability 400. The magnetic field produced in the interior of solenoid is 1.0T.
+The magnetic intensity is SI units is α × 10⁵.
+The value of α is (Free space permeability μ₀ = 4π × 10⁻⁷ SI units).",
 "options": [
 "25/π",
 "1/(16π)",
@@ -210,7 +235,8 @@
 "id": 15,
 "type": "mcq",
 "topic": "Electromagnetic Waves",
-"question": "A magnetic field vector in an electromagnetic wave is represented by, B = B₀sin(2πνt - 2πx/λ)ĵ. Its associated electric field vector is",
+"question": "A magnetic field vector in an electromagnetic wave is represented by, B = B₀sin(2πνt - 2πx/λ)ĵ.
+Its associated electric field vector is",
 "options": [
 "E = -νλB₀sin(2πνt - 2πx/λ)k̂",
 "E = -νλB₀sin(2πνt - 2πx/λ)î",
@@ -224,7 +250,8 @@
 "id": 16,
 "type": "mcq",
 "topic": "Ray Optics",
-"question": "A convex lens is made from glass material having refractive index of 1.4 with same radius of curvature on both sides. The ratio of its focal length and radius of curvature is",
+"question": "A convex lens is made from glass material having refractive index of 1.4 with same radius of curvature on both sides.
+The ratio of its focal length and radius of curvature is",
 "options": [
 "0.5",
 "2.5",
@@ -238,7 +265,9 @@
 "id": 17,
 "type": "mcq",
 "topic": "Wave Optics",
-"question": "An unpolarized light of certain intensity passes through a combination of two polarizers whose transmission axes are at 30° and 90° respectively, with respect to the horizontal axis. A third polarizer with its transmission axis at 60° with the horizontal axis is placed between the two existing polarizers. The ratio of the output intensities with and without the third polarizer is",
+"question": "An unpolarized light of certain intensity passes through a combination of two polarizers whose transmission axes are at 30° and 90° respectively, with respect to the horizontal axis.
+A third polarizer with its transmission axis at 60° with the horizontal axis is placed between the two existing polarizers.
+The ratio of the output intensities with and without the third polarizer is",
 "options": [
 "3/4",
 "4/3",
@@ -252,7 +281,8 @@
 "id": 18,
 "type": "mcq",
 "topic": "Atoms",
-"question": "In Rutherford's alpha-particle scattering experiment, only a few alpha particles rebound back because\n(A) The size of gold nucleus is very small as compared to the size of gold atom.\n(B) Alpha particle and gold nucleus have equal charge.\n(C) The impact parameter is minimum for a few alpha particles.\n(D) A few alpha particles have very high kinetic energy.\n(E) Only a few alpha particles undergo head-on collision with the nuclei.\nChoose the correct answer from the options given below:",
+"question": "In Rutherford's alpha-particle scattering experiment, only a few alpha particles rebound back because\n(A) The size of gold nucleus is very small as compared to the size of gold atom.\n(B) Alpha particle and gold nucleus have equal charge.\n(C) The impact parameter is minimum for a few alpha particles.\n(D) A few alpha particles have very high kinetic energy.\n(E) Only a few
+alpha particles undergo head-on collision with the nuclei.\nChoose the correct answer from the options given below:",
 "options": [
 "A, B Only",
 "B, E Only",
@@ -266,7 +296,8 @@
 "id": 19,
 "type": "mcq",
 "topic": "Dual Nature of Radiation and Matter",
-"question": "The de Broglie wavelength associated with an electron accelerated through a potential difference V is λe and the de Broglie wavelength associated with a proton accelerated through the same potential difference is λp. If their corresponding masses are me and mp respectively, then the ratio of their de Broglie wavelengths (λe/λp) is",
+"question": "The de Broglie wavelength associated with an electron accelerated through a potential difference V is λe and the de Broglie wavelength associated with a proton accelerated through the same potential difference is λp.
+If their corresponding masses are me and mp respectively, then the ratio of their de Broglie wavelengths (λe/λp) is",
 "options": [
 "√(mp/me)",
 "√(me/mp)",
@@ -280,7 +311,8 @@
 "id": 20,
 "type": "mcq",
 "topic": "Semiconductor Electronics",
-"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: A diode under reverse- biased condition provides very small current which is nearly independent of voltage until a critical limit at which the current increases drastically.\nReason R: Below the critical voltage limit, only majority charge carriers flow which increases drastically above critical voltage.\nChoose the correct answer from the options given below.",
+"question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: A diode under reverse- biased condition provides very small current which is nearly independent of voltage until a critical limit at which the current increases drastically.\nReason R: Below the critical voltage limit, only majority charge carriers flow which increases drastically above critical voltage.\nChoose the correct answer from the
+options given below.",
 "options": [
 "Both A and R are true and R is the correct explanation of A.",
 "Both A and R are true but R is NOT the correct explanation of A.",
@@ -296,13 +328,17 @@
 "topic": "Semiconductor Electronics",
 "question": "A diode has Zener voltage of 10V and maximum power dissipation of 0.5W, then the minimum resistance to be used in series with this diode for safety when it is connected to a 25V power supply is ____ Ω.",
 "correct": "300",
-"solution": "Maximum current from diode\ni = P/V = 0.5/10 = 0.05A\nNow let resistance is R\n25 = 0.05 × R + 10\nR = 15/0.05 = 300 Ω"
+"solution": "Maximum current from diode\ni = P/V = 0.5/10 = 0.05A\nNow let
+resistance is R\n25 = 0.05 × R + 10\nR = 15/0.05 = 300 Ω"
 },
 {
 "id": 22,
 "type": "numerical",
 "topic": "Kinematics",
-"question": "A gun mounted on the ground fires bullets in all directions with same speed. The farthest distance the bullets could reach is 6.4 m. The speed of the bullets from the gun is ____ m/s. (take g = 10 m/s²)",
+"question": "A gun mounted on the ground fires bullets in all directions with same speed.
+The farthest distance the bullets could reach is 6.4 m.
+The speed of the bullets from the gun is ____ m/s.
+(take g = 10 m/s²)",
 "correct": "8",
 "solution": "Rmax = v²/g = 6.4\nv = √64 = 8 m/s"
 },
@@ -312,7 +348,9 @@
 "topic": "Magnetism and Matter",
 "hasFigure": true,
 "figureNote": "Figure present in original paper",
-"question": "Two identical small bar magnets each of dipole moment 3√5 J/T are placed at a center to center separation of 10 cm, with their axes perpendicular to each other as shown in figure. The value of magnetic field at the point P midway between the magnets is α × 10⁻³ T. The value of α is (μ₀ = 4π × 10⁻⁷ Tm/A)",
+"image": "physics_2026_april4_s2_q23.png",
+"question": "Two identical small bar magnets each of dipole moment 3√5 J/T are placed at a center to center separation of 10 cm, with their axes perpendicular to each other as shown in figure.
+The value of magnetic field at the point P midway between the magnets is α × 10⁻³ T. The value of α is (μ₀ = 4π × 10⁻⁷ Tm/A)",
 "correct": "12",
 "solution": "Bnet = √(B₁² + B₂²) = (μ₀/4π) (M/r³) √5\n= 10⁻⁷ × 3√5 × √5 × (8 / 10⁻³)\n= 120 × 10⁻⁴ = 12 mT\nα = 12"
 },
@@ -320,15 +358,20 @@
 "id": 24,
 "type": "numerical",
 "topic": "Moving Charges and Magnetism",
-"question": "A circular coil of radius 2 cm and 125 turns carries a current of 1 A. The coil is placed in a uniform magnetic field of magnitude 0.4 T. The axis of the coil makes an angle of 30° with the direction of the magnetic field. The torque acting on the coil is α × 10⁻⁴ N·m. The value of α is (π = 3.14)",
+"question": "A circular coil of radius 2 cm and 125 turns carries a current of 1 A. The coil is placed in a uniform magnetic field of magnitude 0.4 T. The axis of the coil makes an angle of
+30° with the direction of the magnetic field. The torque acting on the coil is α × 10⁻⁴ N·m.
+The value of α is (π = 3.14)",
 "correct": "314",
-"solution": "τ = |M × B| = |NIA × B|\nτ = 125 × 1 × π(2/100)² × 0.4 × sin 30°\n= 100π × 10⁻⁴ N·m\nSo α = 100π = 314"
+"solution": "τ = |M × B|
+= |NIA × B|\nτ = 125 × 1 × π(2/100)² × 0.4 × sin 30°\n= 100π × 10⁻⁴ N·m\nSo α = 100π = 314"
 },
 {
 "id": 25,
 "type": "numerical",
 "topic": "Wave Optics",
-"question": "In a double slit experiment, when one of the slits is covered by a transparent mica sheet of refractive index 1.56, the central fringe shifts to the position of 7th bright fringe, obtained with both slits uncovered. If the light source wavelength is 450 nm, the thickness of mica sheet is α × 10⁻⁹ m. The value of α is",
+"question": "In a double slit experiment, when one of the slits is covered by a transparent mica sheet of refractive index 1.56, the central fringe shifts to the position of 7th bright fringe, obtained with both slits uncovered.
+If the light source wavelength is 450 nm, the thickness of mica sheet is α × 10⁻⁹ m.
+The value of α is",
 "correct": "5625",
 "solution": "Δy = (μ - 1)t D/d = 7 λD/d\n(μ - 1)t = 7λ\n(1.56 - 1)t = 7 × 450 nm\nt = 5625 nm"
 }
