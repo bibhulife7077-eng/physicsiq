@@ -325,6 +325,22 @@
       "question": "Wooden cube (10cm, ρ=0.4g/cm³) floats. Metal coin increases submersion by 3.87cm. Mass of coin is _____ gram.",
       "correct": "387",
       "solution": "m_c=ρ_w×10×10×3.87=387g."
-    }
+ }, 
+ {
+  "id": 26,
+  "type": "mcq",
+  "topic": "Alternating Current",
+  "hasFigure": true,
+  "image": "example_35.png",
+  "question": "In the circuit shown below, what will be the readings of the voltmeter and ammeter?",
+  "options": [
+    "800 V, 2 A",
+    "300 V, 2 A",
+    "220 V, 2.2 A",
+    "100 V, 2 A"
+  ],
+  "correct": 1,
+  "solution": "Voltmeter = 300 V, Ammeter = 2 A."
+}
   ]
 }
